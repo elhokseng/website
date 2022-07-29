@@ -1,0 +1,252 @@
+body{
+    width: auto;
+    padding: 0;
+    margin:0;
+    height: 200vh;
+    background-color: white;
+    font-family: 'Arial';
+}
+.img1{
+    width: 80px;
+    padding-left: 50px;
+    border-radius: 2px;
+    position: absolute;
+    padding-top: 10px;
+}
+.nav{
+    padding-left:52%;
+    padding-top: 10px;
+    display: flex;
+    background-color: pink;
+    height: 70px;
+}
+a:hover{
+    color: white;
+    background-color: red;
+}
+.nav ul a{
+    text-decoration: none;
+    padding: 35px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Arial';
+}
+.img2{
+    width: 30px;
+    padding-left: 96%;
+    border-radius: 2px;
+    position: absolute;
+    padding-top: 25px; 
+
+}
+.Search{
+    padding:10px 100px;
+    position: absolute;
+    margin-top: -65px;
+    margin-left: -53px;
+    border-radius: 2rem;
+    background-color: whitesmoke;
+}
+.buttom1{
+    position: absolute;
+    margin-top: -64px;
+    margin-left: 316px;
+    padding:8px 15px;
+    border-radius: 50rem;
+    font-weight: 600;
+
+}
+.buttom1:hover{
+    background-color:cyan ;
+    color: white;
+}
+.bnt{
+    margin-left: 390px;
+}
+span{
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Arial';
+    font-weight: 600;
+    padding-top: 17px;
+    padding-left: 150px;
+    color: green;
+}
+.cover{
+    width: auto;
+    height: 500px;
+    background-color: rgb(128, 117, 203);
+}
+.h1{
+    text-align: center;
+}
+.zbuttom{
+    margin-left: 20%;
+}
+.zbuttom a{
+    text-decoration: none;
+    color: white;
+    
+}
+.abuttom{
+    padding: 20px 50px;
+    border: 0;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Arial';
+     text-decoration: none;
+    color: white;
+}
+.bbuttom{
+    padding: 20px 50px;
+    border: 0;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Arial';
+    margin-left:200px;
+}
+
+.h2{
+    text-align: center;
+}
+.row{
+    padding-left: 20px;
+}
+.row,.col1,.col2,.col3,.col4,.col5 {
+    display: flex;
+    margin-left: 10px;
+}
+
+col2{
+    margin-left: 5%;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+col3{
+    margin-left: 5%;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+col4{
+    margin-left: 5%;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+col5{
+    margin-left: 5%;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+.a{
+    padding-left: 7px;
+    font-family: 'Arial';
+    font-weight: 600;
+    float: left;
+}
+.b{
+    padding-left:130px;
+    font-family: 'Arial';
+    font-weight: 600; 
+    position: absolute;
+}
+.c{
+    padding-left:130px;
+    font-family: 'Arial';
+    font-weight: 600; 
+    position: absolute;
+    padding-top: 20px;
+}
+.d{
+    padding-left:130px;
+    font-family: 'Arial';
+    font-weight: 600; 
+    padding-top: 42px;
+}
+figcaption{
+    border: 2px solid blue;
+    background-color: white;
+}
+.dia{
+    border: 2px solid red;
+}
+.container{
+    color:white;
+    padding: 0;
+    margin: 0;
+    background-color: #1E9E1E;
+    width: auto;
+    height: 450px;
+}
+.row{
+    justify-content: center;
+    
+   
+}
+.left,.right,.center{
+    padding-top: 0;
+    font-weight: 600;
+
+}
+.left{
+    float:left;
+    padding-right:300px ;
+}
+.right{
+    float:right;
+    padding-left: 300px;
+}
+.center{
+    text-align: center;
+}
+.f-name{
+    padding: 10px 40px;
+    border-radius: 4px;
+}
+.mes{
+    padding: 50px 70px;
+    border-radius: 4px;
+}
+.email{
+    padding: 10px 40px;
+    border-radius: 4px;
+}
+.copyright{
+    background-color: #004E00 ;
+    width: auto;
+    height: 50px;
+   
+}
+.b1{
+    padding: 10px 40px;
+    border-radius: 4px;
+}
+.b1:hover{
+    background-color: red;
+    color:white;
+    border: 5px solid green;
+}
+.icon_social{
+    width: 200px;
+    position: absolute;
+    padding-top: 23em;
+}
+.cpr{
+    padding-top: 15px;
+    text-align: center;
+}
+.order{
+    background-color: aqua;
+    height: 200vh;
+    font-weight: 600;
+    padding: 0;
+}
+.colo-1{
+    float: left;
+    background-color: #1E9E1E;
+}
